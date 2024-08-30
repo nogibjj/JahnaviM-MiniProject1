@@ -1,3 +1,3 @@
-def return_str(x):
+def return_str(some_str):
     '''This function returns the given string'''
-    return x
+    return some_str
